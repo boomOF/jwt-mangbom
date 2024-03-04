@@ -1,7 +1,7 @@
 {
-  "name": "jwt-mangbom", // название проекта
+  "name": "jwt-mangbom",
   "version": "1.0.0", 
-  "description": "A package for creating and managing JWT tokens", // описание проекта
+  "description": "A package for creating and managing JWT tokens",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
